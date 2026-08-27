@@ -186,7 +186,7 @@
 
 (function() {
     var KEY = 'keepaliveAudioEnabled';
-    var SRC = 'https://github.com/liumei-yoomi/repository-1/blob/4750a778b90318c1dfcfdfa1aec878a11b60bc85/deepspace_silence.m4a';
+    var SRC = 'https://raw.githubusercontent.com/liumei-yoomi/repository-1/main/deepspace_silence.m4a';
     var _audio = null;
     var _unlockBound = false;
 
